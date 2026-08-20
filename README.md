@@ -2,6 +2,9 @@
 ## Candidate
 
 Ashmita Thiyam
+## Domain
+
+Data Science
 ## Project Overview
 
 This project focuses on predicting house prices using machine learning techniques. The Ames Housing dataset was used to analyse the relationship between different property characteristics and house prices.
@@ -14,9 +17,7 @@ Three regression models were implemented and compared:
 
 Random Forest Regression achieved the best overall performance and was integrated into an interactive Streamlit dashboard.
 
-## Domain
 
-Data Science
 
 ## Dataset
 
